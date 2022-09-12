@@ -1,0 +1,1 @@
+# Smart contracts practice codes
