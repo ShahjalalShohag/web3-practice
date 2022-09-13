@@ -1,10 +1,13 @@
-# Blockchain, Solidity, Hardhat and Full Stack Web3 Development with JavaScript
+# Full Stack Web3 Development
+
+## Blockchain | Smart Contracts | Solidity | Hardhat | React | NextJS | JavaScript
 
 This repo contains the practice projects that I did while learning smart contracts.
 
 The things that I have learned have been given below.
 
-- [Blockchain, Solidity, Hardhat and Full Stack Web3 Development with JavaScript](#blockchain-solidity-hardhat-and-full-stack-web3-development-with-javascript)
+- [Full Stack Web3 Development](#full-stack-web3-development)
+  - [Blockchain | Smart Contracts | Solidity | Hardhat | React | NextJS | JavaScript](#blockchain--smart-contracts--solidity--hardhat--react--nextjs--javascript)
   - [1. Blockchain Basics](#1-blockchain-basics)
   - [2. Remix Simple Storage](#2-remix-simple-storage)
   - [3. Remix Storage Factory](#3-remix-storage-factory)
