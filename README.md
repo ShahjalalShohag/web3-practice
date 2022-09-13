@@ -1,13 +1,13 @@
 # Full Stack Web3 Development
 
-## Blockchain | Smart Contracts | Solidity | Hardhat | React | NextJS | JavaScript
+## Blockchain | Smart Contracts | Solidity | Remix | Hardhat | React | NextJS | JavaScript
 
 This repo contains the practice projects that I did while learning smart contracts.
 
 The things that I have learned have been given below.
 
 - [Full Stack Web3 Development](#full-stack-web3-development)
-  - [Blockchain | Smart Contracts | Solidity | Hardhat | React | NextJS | JavaScript](#blockchain--smart-contracts--solidity--hardhat--react--nextjs--javascript)
+  - [Blockchain | Smart Contracts | Solidity | Remix | Hardhat | React | NextJS | JavaScript](#blockchain--smart-contracts--solidity--remix--hardhat--react--nextjs--javascript)
   - [1. Blockchain Basics](#1-blockchain-basics)
   - [2. Remix Simple Storage](#2-remix-simple-storage)
   - [3. Remix Storage Factory](#3-remix-storage-factory)
@@ -18,6 +18,7 @@ The things that I have learned have been given below.
   - [8. HTML / Javascript Fund Me (Full Stack / Front End)](#8-html--javascript-fund-me-full-stack--front-end)
   - [9. Hardhat Smart Contract Lottery](#9-hardhat-smart-contract-lottery)
   - [10. NextJS Smart Contract Lottery (Full Stack / Front End)](#10-nextjs-smart-contract-lottery-full-stack--front-end)
+  - [Course Link](#course-link)
 
 ## 1. Blockchain Basics
 
@@ -196,3 +197,7 @@ The things that I have learned have been given below.
 - IPFS
 - Hosting on IPFS & Filecoin using Fleek
 - Filecoin Overview
+
+## Course Link
+
+[freeCodeCamp Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=1s)
