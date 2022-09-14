@@ -1,13 +1,13 @@
 # Full Stack Web3 Development
 
-## Basics of (Blockchain | Smart Contracts | Solidity | Remix | Hardhat | ChainLink | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | React | NextJS | JavaScript | TailWind CSS)
+## Basics of (Blockchain | Smart Contracts | Solidity | Remix | Hardhat | ChainLink | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | React | NextJS | JavaScript | Typescript | TailWind CSS)
 
 This repo contains the practice projects that I did while learning smart contracts.
 
 The things that I have learned have been given below.
 
 - [Full Stack Web3 Development](#full-stack-web3-development)
-  - [Basics of (Blockchain | Smart Contracts | Solidity | Remix | Hardhat | ChainLink | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | React | NextJS | JavaScript | TailWind CSS)](#basics-of-blockchain--smart-contracts--solidity--remix--hardhat--chainlink--moralis--web3uikit--ethers--mocha--chai--waffle--react--nextjs--javascript--tailwind-css)
+  - [Basics of (Blockchain | Smart Contracts | Solidity | Remix | Hardhat | ChainLink | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | React | NextJS | JavaScript | Typescript | TailWind CSS)](#basics-of-blockchain--smart-contracts--solidity--remix--hardhat--chainlink--moralis--web3uikit--ethers--mocha--chai--waffle--react--nextjs--javascript--typescript--tailwind-css)
   - [1. Blockchain Basics](#1-blockchain-basics)
   - [2. Remix Simple Storage](#2-remix-simple-storage)
   - [3. Remix Storage Factory](#3-remix-storage-factory)
