@@ -213,6 +213,7 @@ The things that I have learned have been given below.
 - Connect to Wallet
 - Enter the lottery using an entrance fee
 - Chainlink VRF to generate a random winner in a truly decentralized way
+- Chainlink Keepers to select the winner after every 30s
 - Get all the money after winning the lottery
 - Keeps track of the recent winner, number of players, total balance of the lottery
 
