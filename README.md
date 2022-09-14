@@ -1,6 +1,6 @@
 # Full Stack Web3 Development
 
-## Blockchain | Smart Contracts | Solidity | Remix | Hardhat | React | NextJS | JavaScript
+## Blockchain | Smart Contracts | Solidity | Remix | Hardhat | React | NextJS | NodeJS | JavaScript
 
 This repo contains the practice projects that I did while learning smart contracts.
 

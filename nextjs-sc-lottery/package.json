@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-sc-lottery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "moralis": "^1.8.0",
+    "moralis-v1": "^1.11.0",
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-moralis": "^1.4.0",
+    "web3uikit": "^0.1.159"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  }
+}
